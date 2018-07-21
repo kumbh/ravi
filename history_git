@@ -1,0 +1,22 @@
+
+   17  git pull https://github.com/kumbh/ravi.git
+   18  git clone https://github.com/kumbh/ravi.git
+   19  ls
+   20  cd ravi/
+   21  ls
+   22  echo "ravi"
+   23  touch log.txt
+   24  vim log.txt 
+   25  clear
+   26  git status
+   27  git add -u
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "ravi 1st time"
+   32  git push master origin
+   33  git branch
+   34  git push -u master origin
+   35  git branch
+   36  git push -u origin master
+
